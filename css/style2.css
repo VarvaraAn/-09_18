@@ -1,0 +1,55 @@
+.boxes{
+display:grid;
+grid-template-columns: 35px 35px 35px 35px 35px;
+grid-template-rows: 50px 50px 50px 50px 50px;
+grid-column-gap: 10px;
+grid-row-gap: 10px;
+}
+/* .one{
+background-color: aqua;
+}
+.two{
+    background-color: chartreuse;
+}
+.three{
+    background-color: darkmagenta;
+}
+.four{
+    background-color: mediumslateblue;
+}
+.five{
+    background-color: crimson;
+} */
+
+.boxes-two{
+display:flex;
+justify-content: center;
+
+}
+
+.one-o{
+    width:100px;
+    height:100px;
+    background-color: darkgreen;
+    }
+.two-o{
+ width:100px;
+height:100px;
+background-color: rgb(21, 235, 235);
+
+ }
+.three-o{
+ width:100px;
+height:100px;
+ background-color: rgb(194, 22, 65);
+}
+.four-o{
+width:100px;
+ height:100px;
+ background-color: rgb(61, 35, 211);
+} 
+.five-o{
+width:100px;
+ height:100px;
+background-color: rgb(156, 224, 28);
+}                                

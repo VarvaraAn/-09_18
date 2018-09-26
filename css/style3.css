@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color:darkred;
+}
+li{
+    list-style: none;
+}
+.main-menu{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: flex-start;
+    text-align: center;
+   
+}
+.main{
+flex-grow: 1;
+background-color: aqua;
+min-height: 100px;
+}
+.about{
+    flex-grow: 1;
+    background-color: darksalmon;
+    min-height: 100px;
+}
+.price{
+    flex-grow: 1;
+    background-color: aqua;
+    min-height: 100px;
+}
+.contact{
+    flex-grow: 1;
+    background-color: darksalmon;
+    min-height: 100px;
+}
