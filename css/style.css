@@ -321,6 +321,7 @@ bottom:-60px;
 left:7%;
 text-align: center;
 font-family: var(--main-font-family);
+color:black;
 }    
 .item-two{
  background-image: url("../img/img23.jpeg"); 
@@ -336,6 +337,7 @@ bottom:-60px;
 left:7%;
 text-align: center;
 font-family: var(--main-font-family);
+color:black;
 }
 .item-three{
 background-image: url("../img/img21.jpeg"); 
@@ -351,6 +353,7 @@ bottom:-60px;
 left:13%;
 text-align: center;
 font-family: var(--main-font-family);
+color:black;
 }
 .item-four{
  background-image: url("../img/img22.jpeg"); 
@@ -366,6 +369,7 @@ bottom:-60px;
 left:13%;
 text-align: center;
 font-family: var(--main-font-family);
+color: black;
 }
 .bottom-about{
     display: flex;
